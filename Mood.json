@@ -1,6 +1,6 @@
 {
-  "dialog_enable": false,
-  "online_enable": false,
+  "dialog_enable": true,
+  "online_enable": true,
 
   "title": "Taizul Mood",
   "descriptions": [
@@ -29,6 +29,9 @@
       "device_id": "3d80315f81114ad5",
       "password": "1234",
       "expire_date": "2026-02-10"
-    }
-  ]
+    },
+    {
+      "device_id": "3d80315f81114ad5",
+      "password": "3344",
+      "expire_date": "2026-02-15"
 }
