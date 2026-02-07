@@ -1,6 +1,6 @@
 {
   "dialog_enable": false,
-  "online_enable": true,
+  "online_enable": false,
 
   "title": "Taizul Mood",
   "descriptions": [
