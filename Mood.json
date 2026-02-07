@@ -12,7 +12,7 @@
   "button_login": "Login",
   "button_admin": "Admin",
   "button_copy": "Copy ID",
-  "admin_url": "https://google.com",
+  "admin_url": "https://taizul_king",
 
   "device_section": [
     {
@@ -28,7 +28,7 @@
     {
       "device_id": "3d80315f81114ad5",
       "password": "1234",
-      "expire_date": "2026-01-01"
+      "expire_date": "2026-02-10"
     }
   ]
 }
